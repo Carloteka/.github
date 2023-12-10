@@ -5,8 +5,23 @@
 - swords and shields
 - minibars
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)## Made with"
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+## frontend-stack
 
-<img src="https://img.shields.io/badge/Python-244c6f?logo=python&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Django-0c4b33?logo=django&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Django%20Rest%20Framework-a30000?logo=django&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/SwaggerUI-85ea2d?logo=swagger&logoColor=black&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Docker-ffffff?logo=docker&logoColor=White&style=ShieldStyle" />
-### Version Control and Development Tools used:
-<img src="https://img.shields.io/badge/Git-DC4936?logo=git&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/GitHub-1A1C1E?logo=github&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Visual Studio Code-0C72C5?logo=visual studio code&logoColor=white&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/React-4FACDF?logo=react&logoColor=white&style=ShieldStyle" />
+ <img src="https://img.shields.io/badge/styled-components?logo=styled-components&logoColor=white&style=ShieldStyle&color=darkgreen" />
+ 
+## backend-stack
+
+<img src="https://img.shields.io/badge/Python-244c6f?logo=python&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Django-0c4b33?logo=django&logoColor=white&style=ShieldStyle" /> <img src="https://img.shields.io/badge/Django%20Rest%20Framework-a30000?logo=django&logoColor=white&style=ShieldStyle&color=darkgreen" /> <img src="https://img.shields.io/badge/Docker-ffffff?logo=docker&logoColor=white&style=ShieldStyle&color=blue" />
+
+## Authors
+
+#### frontend
+- [@bbbozhena](https://github.com/bbbozhena)
+- [@NazariiSova](https://github.com/NazariiSova)
+
+#### backend
+- [@HomaDev](https://github.com/HomaDev)
+- [@alex2011ua](https://github.com/alex2011ua)
+- [@AntonPrime11](https://github.com/AntonPrime11)
