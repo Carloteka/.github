@@ -4,4 +4,4 @@
 - minibars
 - chess
 - swords and shields
-<img src="https://github.com/Carloteka/carloteka-backend/blob/dev/apps/shop/management/img/img_data.png?raw=true" alt="alt text" style="max-width: 400px; max-height: 400px;">
+<img src="https://github.com/Carloteka/carloteka-backend/blob/dev/apps/shop/management/img/img_data.png?raw=true" alt="alt text" max-width="400" max-height="400">
