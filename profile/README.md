@@ -19,7 +19,7 @@
 
 #### frontend
 - [@bbbozhena](https://github.com/bbbozhena)
-- [@NazariiSova](https://github.com/NazariiSova)
+- [@sgrischenko8](https://github.com/sgrischenko8)
 
 #### backend
 - [@HomaDev](https://github.com/HomaDev)
