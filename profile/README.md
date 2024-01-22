@@ -1,6 +1,6 @@
 # Carloteka
 
-[Carloteka](https://carloteka.com/) is a premium wood accessories online shop where you can buy:
+[Carloteka](http://carloteka.com/) is a premium wood accessories online shop where you can buy:
 - chess
 - swords and shields
 - minibars
